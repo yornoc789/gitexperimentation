@@ -1,10 +1,2 @@
 # gitexperimentation
-egwae
-
-
-
-gewgwe
-gewgweegwag
-
-
-gewge
+helllo world
